@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Volumes/Secondary/marteliuz/Projects/IR_SecondaryScreen/bin/Release/net8.0-macos/osx-arm64/IR_SecondaryScreen.app/Contents/MonoBundle/libmscordbi.dylib

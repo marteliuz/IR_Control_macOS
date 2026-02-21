@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HcZKmsmaoFw=",
+  "success": true,
+  "projectFilePath": "/Volumes/Secondary/marteliuz/Projects/IR_SecondaryScreen/IR_SecondaryScreen.csproj",
+  "expectedPackageFiles": [
+    "/Users/marteliuz/.nuget/packages/microsoft.net.illink.tasks/8.0.24/microsoft.net.illink.tasks.8.0.24.nupkg.sha512",
+    "/Users/marteliuz/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/8.0.24/microsoft.netcore.app.runtime.osx-x64.8.0.24.nupkg.sha512",
+    "/Users/marteliuz/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/8.0.24/microsoft.aspnetcore.app.runtime.osx-x64.8.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
